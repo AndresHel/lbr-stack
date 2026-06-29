@@ -1,0 +1,8 @@
+[submodule "src/fri"]
+	path = src/fri
+	url = https://github.com/lbr-stack/fri.git
+	branch = fri-1.15
+[submodule "src/lbr_fri_idl"]
+	path = src/lbr_fri_idl
+	url = https://github.com/lbr-stack/lbr_fri_idl.git
+	branch = fri-1
